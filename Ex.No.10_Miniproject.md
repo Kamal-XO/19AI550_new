@@ -1,6 +1,6 @@
 # Ex.No: 10  Implementation of Flappy bird game 2D
-### Name : ROHIT G                                                                         
-### Reg NO : 212222240083
+### Name : Kamalesh SV                                                                      
+### Reg NO : 212222240041
 ### AIM: 
 To develop a game flappy bird in Unity 
 ### Algorithm:
