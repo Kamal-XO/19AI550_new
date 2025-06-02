@@ -1,6 +1,6 @@
 # Ex.No: 6  Implementation of Jumping  behaviour- Unity
 ### DATE: 26-04-2025                                                                      
-### REGISTER NUMBER : 212222240083
+### REGISTER NUMBER : 212222240041
 ### AIM: 
 To write a program to simulate the process of jumping in Unity.
 ### Algorithm:
