@@ -1,5 +1,5 @@
 # Ex.No: 9  Implementation of Simple Reinforcement Learning                                                                          
-### REGISTER NUMBER : 212222240083
+### REGISTER NUMBER : 212222240041
 ### AIM: 
 To write a program to implement  Reinforcement learning  in Unity 
 ### Algorithm:
